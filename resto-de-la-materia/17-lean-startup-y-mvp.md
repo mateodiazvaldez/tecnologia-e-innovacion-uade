@@ -1,6 +1,6 @@
 # 17 · Lean Startup y MVP
 
-> **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Mario Barrios), diapositivas 21–23.
+> **Fuente en el material:** *Proyecto de Innovación Tecnológica – Lean Startup y KPI* (Ing. Mario Barrios), diapositivas 21–23 · *Clase 4 preparcial – Estrategias*, diapositivas 34–37 (sección IV.+).
 > **Prerrequisitos:** [16 Proyectos y estrategia](16-proyectos-y-estrategia-de-innovacion.md), [13 Design Thinking](../parcial-1/13-design-thinking.md).
 > **Tiempo estimado:** 45 min.
 > **Resto de la materia · Tema 17** (Proyecto de Innovación · Barrios). No entra en el Primer Parcial. Ojo: el **MVP** fue la pregunta 10 del [parcial anterior](../evaluacion/parcial-anterior-resuelto.md#v10-el-mvp-contra-la-competencia).
@@ -37,6 +37,7 @@
     9. Iteración
     10. Decisión de pivotar
 - **IV. Conceptos clave**: MVP, hipótesis, pivotar, iterar
+  - IV.+ El MVP en la clase preparcial: definición de Barrios, producto–mínimo–viable, 3 reglas, MVP vs. MUP
 - **V. Lean Startup vs. Design Thinking**
 - **VI. Lean Startup en proyectos de innovación**
 
@@ -158,6 +159,43 @@ flowchart LR
 
 ---
 
+### IV.+ El MVP en la clase preparcial (Barrios)
+
+> 📍 **Fuente:** *Clase 4 preparcial – Estrategias* (Ing. Mario Barrios), diapositivas 34–37. El MVP fue la **pregunta 10 del parcial anterior**: esta es la versión más completa que dio la cátedra.
+
+> 📌 *"Un MVP permite **probar escenarios reales de uso con los clientes**. Con este fin, se evita la costosa investigación de mercado y el posterior desarrollo de productos; en su lugar, se implementa un **producto de construcción rápida** con un **conjunto mínimo de características** para **probar las suposiciones** sobre los requisitos del cliente."*
+
+**Las tres características necesarias** (diagrama de tres círculos; el MVP está en la intersección):
+
+| Característica | Qué significa (cátedra) |
+|---|---|
+| **Producto** | *"Algo que pueda realmente ser comercializable y con características escalables."* |
+| **Mínimo** | *"Funcionalidades más requeridas por el público objetivo."* |
+| **Viable** | *"Producto que sea factible de crear."* |
+
+**Tres reglas para saber si NO es un MVP:**
+1. *"Si estamos **2 años** para construir un MVP, no estamos construyendo un MVP."*
+2. *"Si queremos en la primera versión lanzar **'todas'** las funcionalidades pensadas, no estamos construyendo un MVP."*
+3. *"Si cuando ideamos el producto **no tenemos la viabilidad técnica o económica** de construirlo, no estamos pensando en un MVP."*
+
+**MVP vs. MUP (*Minimal Usable Product*).** La cátedra muestra una crítica de Tobias Mayer: el problema del término MVP es que *"viable"* se interpreta como *"hacer dinero"*; propone **MUP**: lo que se busca son *"comentarios rápidos"*, y para eso el producto *"debe ser utilizable, y realmente utilizado por usuarios reales en la primera oportunidad"*. El gráfico de las dos pirámides lo explica:
+
+```mermaid
+flowchart LR
+    subgraph NO["❌ NOT THIS: solo la base"]
+        n1["Functional"]
+    end
+    subgraph SI["✅ TRUE MVP: una franja de cada capa"]
+        s4["Empathic design"] --- s3["Usable"] --- s2["Reliable"] --- s1["Functional"]
+    end
+```
+
+> 💡 **Para entenderlo:** un MVP **no** es construir solo la capa "funcional" de todo el producto y dejar la experiencia para después. Es una **porción vertical** pequeña que ya es funcional, confiable, usable y agradable: chica, pero **completa**. Si a la primera versión solo "le anda", los usuarios no la van a usar y no vas a aprender nada.
+
+> 📝 **Citar y explayarse:** Según Barrios, un MVP *"permite probar escenarios reales de uso con los clientes"*: en lugar de una costosa investigación de mercado seguida de un desarrollo completo, se construye rápido un producto *"con un conjunto mínimo de características para probar las suposiciones sobre los requisitos del cliente"*. Tiene que cumplir tres condiciones a la vez: ser **producto** (comercializable y escalable), ser **mínimo** (solo lo que más necesita el público objetivo) y ser **viable** (factible de construir). Por eso no es un MVP lo que tarda dos años, lo que intenta incluir *"todas"* las funcionalidades o lo que no es técnica o económicamente construible. Y "mínimo" no quiere decir "a medias": como señala la crítica del MUP, tiene que ser realmente **usable** por usuarios reales, porque sin uso no hay aprendizaje. En el caso Nokia, años desarrollando un sistema operativo "perfecto" son exactamente lo contrario de un MVP.
+
+---
+
 ## V. Lean Startup vs. Design Thinking
 
 > ➕ **Contexto adicional (síntesis comparativa):** ambas metodologías aparecen en la materia y comparten prototipado e iteración, pero tienen focos distintos.
@@ -245,6 +283,18 @@ Es el **Producto Mínimo Viable**: la versión más simple del producto que perm
 <details><summary>Ver respuesta</summary>
 
 (1) Necesidad: estudiantes no encuentran apoyo para finales. (2) Oportunidad: estudiantes avanzados que quieren ingresos. (3–4) Ideas: app, grupo de WhatsApp, planilla; se prioriza lo más simple. (5) MVP: formulario de Google + grupo de WhatsApp. Hipótesis: "los estudiantes pagarían $X por una clase". (6) Medir: inscriptos, clases concretadas, pagos. (7) Aprender: qué materias se piden, qué falla. (8) Validar: ¿se concretan y pagan clases? (9) Iterar: agregar calendario. (10) Pivotar si no pagan: modelo gratuito financiado por la facultad o venta de apuntes.
+</details>
+
+**MVP-1. ¿Cuáles son las tres características necesarias de un MVP según Barrios y qué tres reglas indican que algo no es un MVP?**
+<details><summary>Ver respuesta</summary>
+
+**Producto** (comercializable y escalable), **mínimo** (las funcionalidades más requeridas por el público objetivo) y **viable** (factible de crear). No es un MVP si: tarda **2 años**; quiere lanzar **"todas"** las funcionalidades en la primera versión; o no hay **viabilidad técnica o económica** para construirlo.
+</details>
+
+**MVP-2. ¿Qué critica la idea de MUP (Minimal Usable Product)?**
+<details><summary>Ver respuesta</summary>
+
+Que "viable" se entienda como "hacer dinero". Lo que se busca con un MVP son **comentarios rápidos**, y para eso el producto tiene que ser **usable y realmente usado** por usuarios reales: una porción pequeña pero completa (funcional, confiable, usable y con diseño empático), no solo la capa funcional.
 </details>
 
 ---

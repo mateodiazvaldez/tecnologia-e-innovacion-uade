@@ -40,6 +40,11 @@ Entra **hasta Design Thinking** (temas 01–13). El orden sigue las clases. La c
 | 17 | [Lean Startup y MVP](resto-de-la-materia/17-lean-startup-y-mvp.md) | Eric Ries, las fases del método, MVP, construir-medir-aprender, iterar vs. pivotar. | Proyecto de Innovación · Barrios | 45 min |
 | 18 | [KPI](resto-de-la-materia/18-kpi.md) | Anatomía, SMART, leading/lagging, DORA, SaaS, casos Spotify y Mercado Libre, costo de no medir. | KPI & OKR · Barrios | 90 min |
 | 19 | [OKR](resto-de-la-materia/19-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios | 70 min |
+| 20 | [Propuesta de valor, clientes y competencia](resto-de-la-materia/20-propuesta-de-valor-clientes-y-competencia.md) | Kawasaki, propuesta de valor, B2C/B2B, Maslow y 30 elementos de valor, canvas de propuesta de valor (fit/misfit de NEXA), buyer persona, 4 tipos de competidores, matriz de competitividad. | Clase 4 · Barrios | 60 min |
+| 21 | [Estrategias, Ansoff, Océano Azul y Canvas](resto-de-la-materia/21-estrategias-oceano-azul-y-canvas.md) | Integración, intensivas, diversificación y defensivas; ciclo cosechar/reinventar; casos en números; Ansoff; Design Sprint; océano rojo vs. azul y 4 acciones; Business Model Canvas. | Clase preparcial · Barrios | 75 min |
+| 22 | [Service Design y Cultura Fail](resto-de-la-materia/22-service-design-y-cultura-fail.md) | Definiciones, operación fragmentada, frontstage/backstage, principios 2010→2017, 4 etapas, Journey Map y Blueprint, 6 puntos de la Cultura Fail. | Clase preparcial · Barrios | 50 min |
+
+> ⚠️ **Temas 20–22:** clases nuevas (descargadas el 2026-10-06). La de estrategias se llama **"preparcial"**: si el profesor confirma que entran, pasan al Primer Parcial. Lo de **MVP** y **Design Thinking** de esa clase ya está integrado en los temas [17](resto-de-la-materia/17-lean-startup-y-mvp.md) y [13](parcial-1/13-design-thinking.md).
 
 ---
 
@@ -49,6 +54,8 @@ Aparte de los temas, para usar **después** de estudiarlos: [carpeta de evaluaci
 
 - [Guía del Parcial 1](evaluacion/guia-del-parcial-1.md): alcance, prioridades y checklist final.
 - [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md): las 10 preguntas del examen anterior con respuesta modelo.
+- 🔥 [Caso Nokia: los 10 ejes de la cátedra, resueltos](evaluacion/nokia-10-ejes-resuelto.md): la guía *"El dilema estratégico de Nokia – Preguntas"* respondida eje por eje. **Pista más fuerte del Parcial 1.**
+- [Simulacros del Parcial 1](evaluacion/simulacros-parcial-1.md): dos exámenes completos (Nokia con preguntas nuevas y Kodak), ronda relámpago de 25 preguntas y grilla de autocorrección.
 - [Preguntas integradoras](evaluacion/preguntas-integradoras.md): práctica que cruza temas.
 - [Casos](evaluacion/casos/README.md): Nokia, NEXA y el enunciado del parcial anterior.
 
@@ -83,7 +90,7 @@ Cada actualización del material se registra en [CHANGELOG.md](CHANGELOG.md) y s
 ├── README.md                     ← este índice
 ├── 00-como-estudiar-…md          ← método
 ├── parcial-1/                    ← temas 01–13 (Primer Parcial)
-├── resto-de-la-materia/          ← temas 14–19
+├── resto-de-la-materia/          ← temas 14–22
 ├── evaluacion/                   ← guía del parcial, parcial anterior, preguntas integradoras
 │   └── casos/                    ← Nokia, NEXA, enunciado del parcial anterior
 ├── glosario.md

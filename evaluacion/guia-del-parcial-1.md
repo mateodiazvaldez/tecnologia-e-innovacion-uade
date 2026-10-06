@@ -34,6 +34,8 @@
 | ✅ Entra | **Día 3** (primera parte) | [11](../parcial-1/11-creatividad-y-proceso-creativo.md) · [12](../parcial-1/12-innovacion-tecnologica-e-ia.md) · [13](../parcial-1/13-design-thinking.md) |
 | ⏳ No entra | Día 3 (segunda parte) · Proyecto de innovación · KPI & OKR | [14](../resto-de-la-materia/14-innovacion-abierta.md) · [15](../resto-de-la-materia/15-entornos-vica-y-vani.md) · [16](../resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md) · [17](../resto-de-la-materia/17-lean-startup-y-mvp.md) · [18](../resto-de-la-materia/18-kpi.md) · [19](../resto-de-la-materia/19-okr.md) |
 
+| ❓ A confirmar | **Clase 4** (Propuesta de valor y Canvas) · **Clase preparcial** (Estrategias, Service Design, Cultura Fail) · Barrios | [20](../resto-de-la-materia/20-propuesta-de-valor-clientes-y-competencia.md) · [21](../resto-de-la-materia/21-estrategias-oceano-azul-y-canvas.md) · [22](../resto-de-la-materia/22-service-design-y-cultura-fail.md) (lo de MVP y Design Thinking de la clase preparcial ya está en [17](../resto-de-la-materia/17-lean-startup-y-mvp.md) y [13](../parcial-1/13-design-thinking.md)) |
+
 > 💡 Si el alcance se amplía, alcanza con mover la fila de ⏳ a ✅, sumar el bloque a la sección II y registrar el cambio en el CHANGELOG.
 
 ---
@@ -241,6 +243,8 @@ El examen de la cursada anterior está transcripto en [casos/parcial-anterior-no
 | 8 | Gestión 2.0 e interdisciplina | [07](../parcial-1/07-gestion-de-la-innovacion.md) | V.8 |
 | 9 | Opinión pública, desarrolladores y valuación | [04](../parcial-1/04-empresas-unicornio.md) | V.9 |
 | 10 | MVP | [17](../resto-de-la-materia/17-lean-startup-y-mvp.md) · VI.1 de esta guía | V.10 |
+
+> 🔥 **Pista nueva (2026-10-06):** la cátedra subió *"El dilema estratégico de Nokia – Preguntas"* con **10 ejes** del caso. Están resueltos en [Los 10 ejes de Nokia](nokia-10-ejes-resuelto.md); los ejes 1–5 (dilema, no solo tecnológico, estructura, paradoja, cultura del miedo) y 7, 8 y 10 (Gartner, adopción, Doblin) son los candidatos a reemplazar preguntas del parcial anterior. Practicá con los [simulacros](simulacros-parcial-1.md).
 
 > 💡 **Qué cambia en la estrategia:** las preguntas del parcial anterior pasan a ser **lo primero que se estudia**; el resto del temario (checklist VIII) queda como cobertura para el 20–30 % que puede variar.
 

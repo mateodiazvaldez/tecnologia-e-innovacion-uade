@@ -1,6 +1,6 @@
 # 13 · Design Thinking
 
-> **Fuente en el material:** *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 30–37.
+> **Fuente en el material:** *Día 3 – Innovación tecnológica, creatividad vs. innovación*, diapositivas 30–37 · *Clase 4 preparcial – Estrategias* (Ing. Mario Barrios), diapositivas 38–55 (sección IX).
 > **Prerrequisitos:** [11 Creatividad](11-creatividad-y-proceso-creativo.md) y [12 Innovación tecnológica](12-innovacion-tecnologica-e-ia.md).
 > **Tiempo estimado:** 50 min.
 > **Primer Parcial · Tema 13 de 13** (Día 3). 🔥 Salió en el parcial anterior (pregunta [4](../evaluacion/parcial-anterior-resuelto.md#iii4-design-thinking-qué-es--al-menos-3-etapas)).
@@ -14,6 +14,7 @@
 3. Explicar sus **siete características**, su **importancia** y sus **beneficios**.
 4. Analizar **casos de empresas** que lo usaron y **por qué**.
 5. **Aplicar** Design Thinking a un problema concreto.
+6. Explicar la **versión de Barrios**: seis principios, mentalidades/habilidades/pensamiento, fases agrupadas (entender–explorar–materializar) y las **tres restricciones** (factibilidad, viabilidad, deseabilidad).
 
 ---
 
@@ -32,6 +33,12 @@
 - **VI. Empresas que lo utilizan**
 - **VII. Por qué lo utilizaron** (4 razones)
 - **VIII. Caso aplicado paso a paso**
+- **IX. La versión de la clase preparcial (Barrios)**
+  1. Seis principios
+  2. De centrado en el producto a centrado en las personas
+  3. Mentalidades, habilidades y pensamiento
+  4. Las fases, una por una, y sus agrupaciones
+  5. Restricciones: factibilidad, viabilidad, deseabilidad
 
 ---
 
@@ -176,6 +183,90 @@ flowchart LR
 
 ---
 
+## IX. La versión de la clase preparcial (Barrios)
+
+> 📍 **Fuente:** *Clase 4 preparcial – Estrategias* (Ing. Mario Barrios), diapositivas 38–55. Es la **misma metodología** que vimos en el Día 3, presentada con otro énfasis: principios, mentalidades y restricciones. Suma vocabulario útil para el parcial.
+
+### IX.1 Seis principios
+
+| # | Principio | Qué significa | 🔗 Se conecta con |
+|---|---|---|---|
+| 1 | **Centrado en las personas** | El punto de partida es la persona y su problema, no la tecnología. | Característica 1 (empatía); problema n.º 1 de innovar. |
+| 2 | **Trabajo en equipo colaborativo** | Perfiles diversos que diseñan **juntos**, no áreas que se pasan tareas. | Gestión 2.0: trabajo interdisciplinario. |
+| 3 | **Aprender haciendo** | Se entiende el problema construyendo, no solo analizando. | Prototipar. |
+| 4 | **Abrazar la experimentación** | Probar, fallar y ajustar es parte del método. | "Está bien fracasar"; [Cultura Fail](../resto-de-la-materia/22-service-design-y-cultura-fail.md). |
+| 5 | **Entender patrones, relaciones y sistemas** | Mirar el problema en su contexto completo, no como un hecho aislado. | Pensamiento sistémico. |
+| 6 | **Visualizar y mostrar** | Bocetos, mapas y prototipos para que las ideas se entiendan y se discutan. | Característica 6 (visual y tangible). |
+
+### IX.2 De centrado en el producto a centrado en las personas
+
+La diapositiva resume el cambio de enfoque: **"De… centrada en producto → A… centrada en las personas"**.
+
+> 💡 **Para entenderlo:** una empresa centrada en el producto pregunta *"¿cómo hacemos un teléfono mejor?"* (más batería, más resistencia). Una centrada en las personas pregunta *"¿qué quiere hacer la gente con el teléfono?"* (navegar, compartir fotos, usar apps). Es exactamente la diferencia entre Nokia y Apple en 2007.
+
+### IX.3 Mentalidades, habilidades y pensamiento
+
+Barrios lo presenta como tres círculos que se superponen:
+
+| Círculo | Qué incluye |
+|---|---|
+| **Mentalidades y actitudes** | Empatía · adaptabilidad · coraje · mentalidad de principiante · resiliencia emocional · mente abierta. |
+| **Habilidades: métodos y herramientas** | Reformulación · ideación · prototipado iterativo · creación de sentido · facilitación · co-creación · colaboración. |
+| **Nuevas formas de pensar** | Pensamiento divergente · síntesis · pensamiento sistémico · inteligencia emocional · pensamiento visual · imaginación. |
+
+> 💡 El mensaje: Design Thinking no es solo una secuencia de pasos, sino una **forma de trabajar** que combina **actitud** (cómo me paro frente al problema), **método** (qué herramientas uso) y **pensamiento** (cómo razono).
+
+### IX.4 Las fases, una por una, y sus agrupaciones
+
+Las cinco fases son las mismas del Día 3, con la descripción breve de Barrios:
+
+| Fase | Descripción (Barrios) |
+|---|---|
+| **Empatizar** | *"Entender cómo piensan, sus necesidades y lo que es realmente importante para los usuarios."* |
+| **Definir** | *"Sintetizar la información construyendo un punto de partida desde un dolor significativo para el usuario."* |
+| **Idear** | *"Generar muchas ideas, siendo disruptivo e innovador y construyendo en equipo una propuesta."* |
+| **Prototipar** | *"Desarrollar prototipos rápidos y sencillos que permitan recibir retroalimentación sobre la propuesta."* |
+| **Testear** | *"Simulando un contexto real, comprender mejor al usuario y con su retroalimentación mejorar la propuesta."* |
+
+Y las agrupa de dos maneras:
+
+```mermaid
+flowchart LR
+    subgraph EN["ENTENDER · Inspiración"]
+        E["Empatizar"] --> D["Definir"]
+    end
+    subgraph EX["EXPLORAR · Ideación"]
+        I["Idear"] --> P["Prototipar"]
+    end
+    subgraph MA["MATERIALIZAR · Implementación"]
+        T["Testear"]
+    end
+    EN --> EX --> MA
+```
+
+| Agrupación 1 | Agrupación 2 | Fases |
+|---|---|---|
+| **Entender** | **Inspiración** | Empatizar, definir |
+| **Explorar** | **Ideación** | Idear, prototipar |
+| **Materializar** | **Implementación** | Prototipar, testear |
+
+> ⚠️ **Detalle del gráfico:** en la diapositiva, **prototipar** queda a caballo entre *explorar* y *materializar*. Si te preguntan, decí que prototipar es el **puente** entre la idea y su materialización.
+
+> ➕ **Contexto adicional:** la agrupación *inspiración – ideación – implementación* es la de **IDEO**, la consultora que popularizó el método.
+
+### IX.5 Restricciones: factibilidad, viabilidad, deseabilidad
+
+> 📌 Toda solución debe equilibrar tres restricciones:
+> - ***factibilidad***, *"lo que es posible funcionalmente en el futuro próximo"*;
+> - ***viabilidad***, *"lo que es probable que pase a formar parte de un modelo de negocio sostenible"*;
+> - ***deseabilidad***, *"lo que tiene sentido para las personas"*.
+
+Son las mismas tres dimensiones de la definición (sección I): **tecnología → factible**, **negocio → viable**, **personas → deseable**. La innovación está en la intersección.
+
+> 📝 **Citar y explayarse:** Barrios plantea que una solución de Design Thinking debe equilibrar tres restricciones: la **factibilidad**, *"lo que es posible funcionalmente en el futuro próximo"*; la **viabilidad**, *"lo que es probable que pase a formar parte de un modelo de negocio sostenible"*, y la **deseabilidad**, *"lo que tiene sentido para las personas"*. Una idea que solo cumple una o dos no es una innovación: si es deseable y factible pero no viable, el negocio pierde plata; si es factible y viable pero no deseable, nadie la usa; si es deseable y viable pero no factible, no se puede construir. El método empieza por la deseabilidad (empatizar), pero el prototipo y el testeo sirven para comprobar las tres a la vez. En el caso Nokia, el prototipo táctil era factible y cada vez más deseable; la dirección lo juzgó solo por la viabilidad de corto plazo (*"frágil"* y costoso), y por eso lo descartó.
+
+---
+
 ## ⚠️ Conceptos que se confunden
 
 | Se confunde… | …con | Diferencia |
@@ -184,6 +275,7 @@ flowchart LR
 | Prototipar | Producto final | El prototipo es **rápido, barato y tangible**, hecho para **aprender**, no para vender. |
 | Design Thinking | Proceso lineal | Es **iterativo**: desde testear se vuelve a cualquier etapa. |
 | Design Thinking | "Diseño gráfico" | Es una **metodología de resolución de problemas**, no de estética. |
+| Factibilidad | Viabilidad | Factible = **se puede construir** (técnica). Viable = **sostiene un modelo de negocio** (económica). |
 | Design Thinking | Lean Startup | DT pone el foco en **entender el problema y al usuario**; Lean Startup en **validar un modelo de negocio con métricas** (ver tema 17). Se complementan. |
 
 ---
@@ -195,6 +287,7 @@ flowchart LR
 - **← [07 Gestión 2.0](07-gestion-de-la-innovacion.md):** fracaso aceptado, trabajo interdisciplinario.
 - **→ [16 Proyectos](../resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md):** DT es la metodología de "experimentación y validación".
 - **→ [17 Lean Startup](../resto-de-la-materia/17-lean-startup-y-mvp.md)**.
+- **→ [22 Service Design](../resto-de-la-materia/22-service-design-y-cultura-fail.md):** el mismo enfoque aplicado a servicios.
 
 ---
 
@@ -228,6 +321,25 @@ Rediseñó sus **cajeros automáticos** para hacerlos **más intuitivos, humanos
 <details><summary>Ver respuesta</summary>
 
 Centrado en el usuario (empatía); colaborativo y multidisciplinario; iterativo (no lineal); orientado a la acción (prototipado); pensamiento abierto y creativo; visual y tangible; validación constante.
+</details>
+
+
+**6. Mencione los seis principios del Design Thinking según la clase de Barrios.**
+<details><summary>Ver respuesta</summary>
+
+Centrado en las personas · trabajo en equipo colaborativo · aprender haciendo · abrazar la experimentación · entender patrones, relaciones y sistemas · visualizar y mostrar.
+</details>
+
+**7. ¿Qué tres restricciones debe equilibrar una solución? Defina cada una.**
+<details><summary>Ver respuesta</summary>
+
+**Factibilidad** (lo que es posible funcionalmente en el futuro próximo), **viabilidad** (lo que es probable que forme parte de un modelo de negocio sostenible) y **deseabilidad** (lo que tiene sentido para las personas).
+</details>
+
+**8. ¿Cómo agrupa Barrios las cinco fases?**
+<details><summary>Ver respuesta</summary>
+
+**Entender** (empatizar, definir) → **explorar** (idear, prototipar) → **materializar** (testear). Equivale a **inspiración → ideación → implementación**.
 </details>
 
 ---

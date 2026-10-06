@@ -2,6 +2,26 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.06 — 2026-10-06
+
+**Motivo:** se volvió a descargar el material de la cátedra (dos zips de OneDrive). De 13 archivos, **4 son nuevos**; el resto es idéntico (mismo hash) a lo que ya estaba.
+
+### Archivos nuevos de la cátedra
+- `material-de-clase/Tecnología e Innovación - Clase 4 - Propuesta de Valor, Segmentacion y CANVAS 2026.pptx` (Barrios).
+- `material-de-clase/Tecnología e Innovación - Clase 4 preparcial - Estrategias 2026.pptx` (Barrios; portada "Clase 5"): estrategias, Ansoff, Design Sprint, Océano Azul, Canvas, MVP, Design Thinking, Service Design, Cultura Fail.
+- `material-de-clase/Videos Canvas.docx`: links de YouTube (propuesta de valor y Canvas).
+- `TP/El dilema estratégico de Nokia Preguntas.docx`: introducción del caso + **10 títulos** que coinciden con secciones de la versión larga del caso Nokia.
+- Conversiones a markdown en `material-de-clase-md/` y `TP-md/`; PDFs de las dos clases nuevas en `material-de-clase-pdf/` (muchas diapositivas son solo imagen y se leyeron desde el PDF).
+
+### Agregado
+- **Evaluación:** [Caso Nokia: los 10 ejes resueltos](evaluacion/nokia-10-ejes-resuelto.md) (pista más fuerte del Parcial 1) y [Simulacros del Parcial 1](evaluacion/simulacros-parcial-1.md) (Nokia con preguntas nuevas, caso Kodak, ronda relámpago, preguntas de la clase preparcial, grilla de autocorrección).
+- **Temas nuevos (resto de la materia, a confirmar si entran):** [20 Propuesta de valor, clientes y competencia](resto-de-la-materia/20-propuesta-de-valor-clientes-y-competencia.md) · [21 Estrategias, Ansoff, Océano Azul y Canvas](resto-de-la-materia/21-estrategias-oceano-azul-y-canvas.md) · [22 Service Design y Cultura Fail](resto-de-la-materia/22-service-design-y-cultura-fail.md).
+
+### Cambiado
+- **13 Design Thinking:** nueva sección IX con la versión de Barrios (seis principios, mentalidades/habilidades/pensamiento, descripción de cada fase, entender–explorar–materializar, factibilidad/viabilidad/deseabilidad) y tres preguntas más de autoevaluación.
+- **17 Lean Startup y MVP:** nueva sección IV.+ con la definición de MVP de Barrios, producto–mínimo–viable, las tres reglas de "no es un MVP" y MVP vs. MUP.
+- README, evaluación, casos, guía del Parcial 1 (fila "a confirmar" en el alcance y pista nueva) y glosario (+21 términos) actualizados.
+
 ## v2026.10.05.8 — 2026-10-05
 
 **Motivo:** de **Innovación abierta en adelante no entra** en el Primer Parcial.

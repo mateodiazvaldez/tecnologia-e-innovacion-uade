@@ -401,4 +401,4 @@ Freelancer: claridad sobre qué se paga y cuándo, evidencia objetiva de valor, 
 
 ---
 
-[← 18 KPI](18-kpi.md) · [🏠 Índice](../README.md)
+[← 18 KPI](18-kpi.md) · [🏠 Índice](../README.md) · [Siguiente → 20 Propuesta de valor, clientes y competencia](20-propuesta-de-valor-clientes-y-competencia.md)
