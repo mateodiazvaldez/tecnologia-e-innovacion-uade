@@ -16,6 +16,7 @@
 5. Comparar el **paradigma cerrado** y el **abierto** en cuatro dimensiones.
 6. Describir los **vehículos de implementación** (CVC, aceleradoras corporativas, ecosistemas de co-creación).
 7. Analizar el caso **Google Ventures (GV)**.
+8. Explicar el **pensamiento divergente y convergente**, el **Doble Diamante** y su relación con los flujos inbound y outbound.
 
 ---
 
@@ -46,6 +47,10 @@
 - **VII. Corporate Venture Capital en detalle**
 - **VIII. Caso real: Google Ventures (GV)**
 - **IX. Ideas fuerza**
+- **X. Pensamiento divergente y convergente** (repaso MRI viernes)
+  1. El ciclo de oscilación cognitiva
+  2. El Doble Diamante
+  3. Matriz comparativa
 
 ---
 
@@ -277,6 +282,49 @@ flowchart LR
 
 ---
 
+## X. Pensamiento divergente y convergente
+
+> **Fuente:** repaso *"Pensamiento Divergente y Convergente"* (MRI viernes). ⚠️ Esta presentación **no está en tu carpeta** `material-de-clase/`: se transcribió del repo de un compañero ([Valenpl](https://github.com/Valenpl/tecnologia-e-innovacion-uade), tema 17, sección VI). Si conseguís el PPT, cotejalo.
+
+### X.1 El ciclo de oscilación cognitiva
+
+> 📌 *"El proceso creativo **no se gestiona de manera caótica**. Consiste en un **ritmo estructurado** que combina y alterna de forma controlada **dos modos fundamentales de pensamiento**."* Los líderes deben saber **cuándo abrir** la organización a la captura de ideas y **cuándo enfocar** los recursos en la viabilidad comercial.
+
+| Modo | Qué es | Rasgos / criterios | Conexión con innovación abierta |
+|---|---|---|---|
+| **Pensamiento divergente** (apertura) | Capacidad de **generar múltiples opciones** a partir de un único estímulo, **sin juzgar su viabilidad**. | **Fluidez** (muchas ideas), **flexibilidad** (cambiar de perspectiva), **originalidad** (ideas disruptivas). | Flujo **inbound**: hackathons, convocatorias abiertas, scouting de startups, co-creación con universidades. |
+| **Pensamiento convergente** (enfoque) | **Analizar, evaluar, filtrar y seleccionar** la mejor opción con lógica, datos y criterios de negocio. | **Viabilidad técnica**, **rentabilidad económica** (ROI), **encaje estratégico**. | **Comités de filtrado**, carteras de **CVC** y flujo **outbound** (licencias, spin-offs). |
+
+> 💡 **En concreto:** en una hackathon primero se juntan 200 ideas sin descartar ninguna (divergir); después un comité las filtra con criterios de viabilidad, ROI y encaje hasta quedarse con 3 para pilotear (converger). Si solo se diverge, hay muchas ideas y ninguna se ejecuta; si solo se converge, se elige rápido entre opciones viejas y no aparece nada disruptivo.
+
+### X.2 El Doble Diamante
+
+Alterna los dos modos **dos veces**: primero para encontrar el problema correcto y después para encontrar la solución correcta.
+
+| Diamante | Fase | Modo | En innovación abierta |
+|---|---|---|---|
+| **1. El problema** (*diseñar la cosa correcta*) | **Descubrir** | Divergencia | Captura masiva de ideas del ecosistema (inbound). |
+| | **Definir** | Convergencia | Identificar el dolor real y el problema central. |
+| **2. La solución** (*diseñar correctamente la cosa*) | **Desarrollar** | Divergencia | Explorar múltiples soluciones sin juzgar viabilidad (co-creación). |
+| | **Entregar** | Convergencia | Ejecutar y monetizar: filtros, ROI, viabilidad, spin-offs (outbound). |
+
+> 🔗 Es la misma lógica que las etapas de **Design Thinking** (tema [13](../parcial-1/13-design-thinking.md)): empatizar/definir = primer diamante; idear/prototipar/evaluar = segundo. Y que el **proceso creativo** del tema [11](../parcial-1/11-creatividad-y-proceso-creativo.md).
+
+### X.3 Matriz comparativa
+
+| Dimensión | **Divergente** | **Convergente** |
+|---|---|---|
+| **Objetivo** | Expandir alternativas (crear opciones) | Focalizar alternativas (tomar decisiones) |
+| **Estado mental** | Abierto, creativo, sin juzgar | Analítico, crítico, enfocado en viabilidad |
+| **Rol en innovación** | Flujo inbound | Flujo outbound |
+| **Riesgo si se abusa** | Caos creativo sin ejecución | Rigidez corporativa, falta de disrupción |
+
+> 📌 *"La innovación **no es un evento fortuito**, es un **proceso disciplinado**"* (Peter Drucker, 1985). La innovación abierta exitosa no depende solo de capturar ideas (divergencia), sino de **canalizarlas hacia soluciones de valor comercial** (convergencia).
+
+> 🔗 Drucker y la comparación entre metodologías siguen en el tema [28](28-metodologias-de-innovacion-comparativa.md).
+
+---
+
 ## ⚠️ Conceptos que se confunden
 
 | Se confunde… | …con | Diferencia |
@@ -286,6 +334,7 @@ flowchart LR
 | Embudo de Wheelwright & Clark | Embudo de Chesbrough | **Cerrado, lineal, secuencial** (filtra y archiva) vs. **perforado/poroso** (entra y sale conocimiento). |
 | CVC | Aceleradora corporativa | **Invertir capital** en startups vs. **acompañar** con mentoría e infraestructura a cambio de pilotos. |
 | Spin-off | Joint venture | Empresa **nueva que se desprende** vs. emprendimiento **conjunto** entre organizaciones. |
+| Pensamiento divergente | Pensamiento convergente | Divergente = **generar** muchas opciones sin juzgar (inbound). Convergente = **filtrar y elegir** con criterios de negocio (outbound). |
 
 ---
 
@@ -334,6 +383,12 @@ Cerrado: **ser el primero en descubrir** la tecnología asegura el dominio de la
 <details><summary>Ver respuesta</summary>
 
 Es el conjunto de **inversiones financieras y estratégicas** que una gran empresa hace **simultáneamente en múltiples startups** (un fondo de inversión propio dentro de la compañía). GV combina **independencia operativa** (busca retornos de forma agnóstica, aun en proyectos no alineados con Google) con el **"Google Edge"** (acceso a ingenieros, científicos de datos, diseñadores UX y marketing de Google).
+</details>
+
+**7. Diferencie el pensamiento divergente del convergente y explique el Doble Diamante.**
+<details><summary>Ver respuesta</summary>
+
+**Divergente:** generar múltiples opciones a partir de un estímulo, sin juzgar su viabilidad (fluidez, flexibilidad, originalidad); se asocia al flujo inbound. **Convergente:** analizar, evaluar, filtrar y seleccionar con criterios de viabilidad técnica, ROI y encaje estratégico; se asocia a comités de filtrado, CVC y flujo outbound. El **Doble Diamante** los alterna dos veces: **descubrir** (divergir) y **definir** (converger) el problema; **desarrollar** (divergir) y **entregar** (converger) la solución.
 </details>
 
 ---

@@ -34,24 +34,29 @@ Entra **hasta Design Thinking** (temas 01–13). El orden sigue las clases. La c
 
 | # | Tema | Qué vas a aprender | Clase / fuente | Tiempo |
 |---|---|---|---|---|
-| 14 | [Innovación abierta](resto-de-la-materia/14-innovacion-abierta.md) | Chesbrough, embudo cerrado vs. perforado, inbound/outbound, CVC, caso Google Ventures. | Día 3 | 70 min |
+| 14 | [Innovación abierta](resto-de-la-materia/14-innovacion-abierta.md) | Chesbrough, embudo cerrado vs. perforado, inbound/outbound, CVC, caso Google Ventures, pensamiento divergente y convergente (Doble Diamante). | Día 3 · repaso MRI viernes | 80 min |
 | 15 | [De VICA a VANI](resto-de-la-materia/15-entornos-vica-y-vani.md) | Entornos VUCA y BANI, matriz de transición, innovación abierta como resiliencia. | Día 3 | 45 min |
 | 16 | [Proyectos y estrategia de innovación](resto-de-la-materia/16-proyectos-y-estrategia-de-innovacion.md) | Proyecto de innovación, tipos, estrategia de innovación, alineación, caso retail. | Proyecto de Innovación · Barrios | 60 min |
 | 17 | [Lean Startup y MVP](resto-de-la-materia/17-lean-startup-y-mvp.md) | Eric Ries, las fases del método, MVP, construir-medir-aprender, iterar vs. pivotar. | Proyecto de Innovación · Barrios | 45 min |
 | 18 | [KPI](resto-de-la-materia/18-kpi.md) | Anatomía, SMART, leading/lagging, DORA, SaaS, casos Spotify y Mercado Libre, costo de no medir. | KPI & OKR · Barrios | 90 min |
-| 19 | [OKR](resto-de-la-materia/19-okr.md) | Estructura, KPI vs. OKR, cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios | 70 min |
-| 20 | [Propuesta de valor, clientes y competencia](resto-de-la-materia/20-propuesta-de-valor-clientes-y-competencia.md) | Kawasaki, propuesta de valor, B2C/B2B, Maslow y 30 elementos de valor, canvas de propuesta de valor (fit/misfit de NEXA), buyer persona, 4 tipos de competidores, matriz de competitividad. | Clase 4 · Barrios | 60 min |
+| 19 | [OKR](resto-de-la-materia/19-okr.md) | Estructura, KPI vs. OKR (🔥 tabla de la cátedra para el final), cascada, 6 errores, pago contra hitos para freelancers. | KPI & OKR · Barrios | 70 min |
+| 20 | [Propuesta de valor, clientes y competencia](resto-de-la-materia/20-propuesta-de-valor-clientes-y-competencia.md) | Kawasaki, propuesta de valor, B2C/B2B, Maslow, 30 elementos de valor y 11 elementos de Osterwalder, canvas de propuesta de valor (fit/misfit de NEXA), buyer persona, 4 tipos de competidores, matriz de competitividad. | Clase 4 · Barrios | 60 min |
 | 21 | [Estrategias, Ansoff, Océano Azul y Canvas](resto-de-la-materia/21-estrategias-oceano-azul-y-canvas.md) | Integración, intensivas, diversificación y defensivas; ciclo cosechar/reinventar; casos en números; Ansoff; Design Sprint; océano rojo vs. azul y 4 acciones; Business Model Canvas. | Clase preparcial · Barrios | 75 min |
 | 22 | [Service Design y Cultura Fail](resto-de-la-materia/22-service-design-y-cultura-fail.md) | Definiciones, operación fragmentada, frontstage/backstage, principios 2010→2017, 4 etapas, Journey Map y Blueprint, 6 puntos de la Cultura Fail. | Clase preparcial · Barrios | 50 min |
 | 23 | [Metodologías ágiles y Scrum](resto-de-la-materia/23-metodologias-agiles-y-scrum.md) | Cascada vs. ágil, "agilidad no es velocidad", Manifiesto (4 valores y 12 principios), pilares y 6 principios de Scrum, flujo de trabajo, daily, roles (PO, Scrum Master, Development Team), cómo (no) construir un MVP. | Jueves MRI · Barrios | 60 min |
-| 24 | [Análisis de mercado y competencia](resto-de-la-materia/24-analisis-de-mercado-y-competencia.md) | Mercado (economía y marketing), oferta y demanda, estructuras de mercado, ciclo de vida, TAM/SAM/SOM, Top-Down y Bottom-Up, market share (2 ejercicios resueltos), 5 fuerzas de Porter, PESTEL. | Tamaño de mercado · Barrios | 90 min |
-| 25 | [Matrices para la toma de decisiones](resto-de-la-materia/25-matrices-para-la-toma-de-decisiones.md) | 8 pasos de la planificación estratégica, Matriz de Análisis Estratégico, Reloj de Bowman, BCG + ciclo de vida, FODA, DuPont, VAN/TIR, Payback y EBITDA, punto de equilibrio; qué **no** entra en examen. | Jueves · Barrios | 75 min |
+| 24 | [Análisis de mercado y competencia](resto-de-la-materia/24-analisis-de-mercado-y-competencia.md) | Mercado (economía y marketing), oferta y demanda, estructuras de mercado, ciclo de vida, TAM/SAM/SOM, Top-Down y Bottom-Up, market share (2 ejercicios resueltos); Porter y PESTEL 🚫 no salen. | Tamaño de mercado · Barrios | 90 min |
+| 25 | [Matrices para la toma de decisiones](resto-de-la-materia/25-matrices-para-la-toma-de-decisiones.md) | ✅ **Salen solo los 8 pasos de la planificación estratégica y Ansoff.** 🚫 Quedan como referencia: Matriz de Análisis Estratégico, Reloj de Bowman, BCG + ciclo de vida, FODA, DuPont, VAN/TIR, Payback y EBITDA, punto de equilibrio; qué **no** entra en examen. | Jueves · Barrios | 75 min |
 | 26 | [Marketing en acción](resto-de-la-materia/26-marketing-en-accion.md) | Marketing ≠ publicidad, 4P y 7P, funnel, B2B vs. B2C, Meta/Google/LinkedIn/TikTok, AIDA, presupuesto en 3 fases, CAC, LTV/CAC, ROAS, métricas, 🔥 los 5 puntos del plan de marketing de la defensa final. | Jueves MRI · Barrios | 80 min |
-| 27 | [Análisis financiero y estrategias de salida](resto-de-la-materia/27-analisis-financiero-y-estrategias-de-salida.md) | VAN, TIR (y por qué es problemática), CAPM con riesgo país, cadena de financiamiento, etapas de la inversión, estrategias de salida (fusión, venta), valuación por múltiplo EBITDA y Crunchbase. | MRI · Barrios | 70 min |
+| 27 | [Análisis financiero y estrategias de salida](resto-de-la-materia/27-analisis-financiero-y-estrategias-de-salida.md) | VAN, TIR (y por qué es problemática), CAPM con riesgo país, cadena de financiamiento, 🔥 etapas de la inversión (foco del profesor), estrategias de salida (fusión, venta), valuación por múltiplo EBITDA y Crunchbase. | MRI · Barrios | 70 min |
+| 28 | [Metodologías de innovación: en qué se diferencian](resto-de-la-materia/28-metodologias-de-innovacion-comparativa.md) | 🔥 Tabla comparativa de la cátedra (foco principal e ideal para), concepto, pilares y proceso de Design Thinking, Lean Startup, Ágiles, Innovación Abierta y Océano Azul (ERAC); Drucker. | Repaso MRI viernes · Barrios | 30 min |
 
 > ⚠️ **Temas 20–22:** clases nuevas (descargadas el 2026-10-06). La de estrategias se llama **"preparcial"**: si el profesor confirma que entran, pasan al Primer Parcial. Lo de **MVP** y **Design Thinking** de esa clase ya está integrado en los temas [17](resto-de-la-materia/17-lean-startup-y-mvp.md) y [13](parcial-1/13-design-thinking.md).
 
 > 🆕 **Temas 23–27:** clases nuevas (descargadas el 2026-10-09). En la clase de **Matrices**, la cátedra marcó varias herramientas como **"no se evalúa en exámenes"** (McKinsey, PEYEA, 7S, cadena de valor, Greiner, matriz de riesgo…): están listadas al final del tema 25.
+>
+> 🚫 **Qué no sale (según lo anotado en clase por otro grupo):** de la clase de Matrices solo salen los **8 pasos y Ansoff**; Porter, PESTEL y el resto de las matrices **no salen**. No se borró nada: está marcado con 🚫 en los temas 24 y 25.
+>
+> 🤝 **Material de un compañero:** la tabla KPI vs. OKR del tema 19, la sección de pensamiento divergente/convergente del 14 y el tema 28 salen de dos **repasos del MRI viernes** y de una tabla mostrada en clase que **no están en tu carpeta**; se transcribieron del repo [Valenpl/tecnologia-e-innovacion-uade](https://github.com/Valenpl/tecnologia-e-innovacion-uade).
 >
 > 📂 En la carpeta de la cátedra, **KPI/OKR** y **Proyecto de Innovación – Lean Startup** quedaron dentro de una subcarpeta **"2do Parcial"** (temas 16–19 de este repo).
 
@@ -99,7 +104,7 @@ Cada actualización del material se registra en [CHANGELOG.md](CHANGELOG.md) y s
 ├── README.md                     ← este índice
 ├── 00-como-estudiar-…md          ← método
 ├── parcial-1/                    ← temas 01–13 (Primer Parcial)
-├── resto-de-la-materia/          ← temas 14–27
+├── resto-de-la-materia/          ← temas 14–28
 ├── evaluacion/                   ← guía del parcial, parcial anterior, preguntas integradoras
 │   └── casos/                    ← Nokia, NEXA, enunciado del parcial anterior
 ├── glosario.md

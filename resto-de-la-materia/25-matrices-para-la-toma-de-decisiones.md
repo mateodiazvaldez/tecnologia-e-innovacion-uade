@@ -4,6 +4,7 @@
 > **Prerrequisitos:** [21 Estrategias y Ansoff](21-estrategias-oceano-azul-y-canvas.md), [24 Análisis de mercado y competencia](24-analisis-de-mercado-y-competencia.md).
 > **Tiempo estimado:** 75 min.
 > **Resto de la materia · Tema 25** (Jueves MRI · Barrios). Clase descargada el 2026-10-09.
+> 🚫 **Qué sale en el examen, según lo anotado en clase por otro grupo:** de esta clase **solo salen los 8 pasos de la planificación estratégica (II.1) y la Matriz de Ansoff (II.2)**. Todo lo demás (Matriz de Análisis Estratégico, PESTEL, análisis del entorno, Porter, Bowman, BCG, FODA, 4 P, DuPont, VAN/TIR, Payback, punto de equilibrio) **no sale**: se deja como referencia y está marcado con 🚫 en cada sección.
 > ⚠️ **Alcance marcado por la cátedra:** varias diapositivas dicen **"NO SE EVALÚA EN EXÁMENES"** o **"No entra en examen"**. Están listadas en la sección [IX](#ix-lo-que-no-entra-en-examen) y no se desarrollan.
 
 ---
@@ -23,23 +24,23 @@
 
 - **I. Qué son las matrices de negocios**
 - **II. Planificación y estrategia**
-  1. Los 8 pasos de la planificación estratégica
-  2. Matriz de Ansoff
-  3. Matriz de Análisis Estratégico: qué, quién, cómo, cuándo, dónde, cuánto
-- **III. Análisis del entorno y competitividad**
+  1. Los 8 pasos de la planificación estratégica ✅ sale
+  2. Matriz de Ansoff ✅ sale
+  3. Matriz de Análisis Estratégico 🚫: qué, quién, cómo, cuándo, dónde, cuánto
+- **III. Análisis del entorno y competitividad** 🚫
   1. PESTEL
   2. Análisis del entorno (macro y micro)
   3. 5 fuerzas de Porter
   4. Reloj de Bowman
   5. Matriz BCG
   6. BCG y ciclo de vida del producto
-- **IV. Evaluación interna: FODA**
-- **V. Marketing: las 4 P**
-- **VI. Evaluación financiera y de inversiones**
+- **IV. Evaluación interna: FODA** 🚫
+- **V. Marketing: las 4 P** 🚫
+- **VI. Evaluación financiera y de inversiones** 🚫
   1. Fórmula de Pares y DuPont
   2. VAN y TIR
   3. Payback y EBITDA
-- **VII. Economía y mercado: oferta, demanda y punto de equilibrio**
+- **VII. Economía y mercado: oferta, demanda y punto de equilibrio** 🚫
 - **VIII. Cómo elegir la herramienta**
 - **IX. Lo que no entra en examen**
 
@@ -112,6 +113,8 @@ flowchart LR
 
 ### II.3 Matriz de Análisis Estratégico
 
+> 🚫 **No sale** (según lo anotado en clase). Queda como referencia.
+
 > 📌 *"La Matriz de Análisis Estratégico es una herramienta esencial para **estructurar la planificación** y tomar las decisiones en una organización. Al utilizar preguntas básicas —**Qué, Quién, Cómo, Cuándo, Dónde y Cuánto**— se puede esbozar un plan claro y coherente que aborde todas las facetas de una estrategia."*
 
 | # | Pregunta | Qué define | Preguntas de aplicación (cátedra) |
@@ -132,6 +135,8 @@ El gráfico de la diapositiva ubica en el centro **¿Por qué? ¿Para qué?** y 
 ---
 
 ## III. Análisis del entorno y competitividad
+
+> 🚫 **No sale** (según lo anotado en clase). Queda como referencia.
 
 ### III.1 PESTEL
 
@@ -226,6 +231,8 @@ Debajo, la cátedra repite el gráfico de **ventas y utilidades** con las cinco 
 
 ## IV. Evaluación interna de la organización: FODA
 
+> 🚫 **No sale** (según lo anotado en clase). Queda como referencia.
+
 > 📌 *"Identificación de **Fortalezas, Oportunidades, Debilidades y Amenazas** de una organización."*
 
 | | **Positivo** | **Negativo** |
@@ -245,6 +252,8 @@ Debajo, la cátedra repite el gráfico de **ventas y utilidades** con las cinco 
 
 ## V. Marketing: las 4 P
 
+> 🚫 **No sale** (según lo anotado en clase). Queda como referencia.
+
 > 📌 *"Elementos del **mix de marketing**: Producto, Precio, Plaza y Promoción."*
 
 | P | Qué es (gráfico de la cátedra) |
@@ -259,6 +268,8 @@ Debajo, la cátedra repite el gráfico de **ventas y utilidades** con las cinco 
 ---
 
 ## VI. Evaluación financiera y de inversiones
+
+> 🚫 **No sale** (según lo anotado en clase). Queda como referencia.
 
 ### VI.1 Fórmula de Pares y DuPont
 
@@ -340,6 +351,8 @@ El gráfico (*discounted cash*, flujo acumulado en el tiempo) marca:
 ---
 
 ## VII. Economía y mercado: oferta, demanda y punto de equilibrio
+
+> 🚫 **No sale** (según lo anotado en clase). Queda como referencia.
 
 > 📌 *"Las **fuerzas** que determinan el **precio** de un bien en el mercado. El **punto de equilibrio** es cuando la **oferta iguala a la demanda**."*
 

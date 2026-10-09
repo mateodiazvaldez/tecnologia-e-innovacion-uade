@@ -40,11 +40,11 @@
   2. Market share y ganancia de share
   3. Ejercicio 1: camisas
   4. Ejercicio 2: vinos
-- **V. Modelo de las 5 fuerzas de Porter**
+- **V. Modelo de las 5 fuerzas de Porter** 🚫
   1. Para qué sirve
   2. Las cinco fuerzas, sus preguntas y factores
   3. Herramienta de intensidad competitiva
-- **VI. Análisis PESTEL**
+- **VI. Análisis PESTEL** 🚫
   1. Las 6 preguntas
   2. PESTEL en el tiempo
 
@@ -369,6 +369,8 @@ Precio promedio del mercado = 348.250.000 / 3.800.000 = **$91,64/lt**.
 
 ## V. Modelo de las 5 fuerzas de Porter
 
+> 🚫 **No sale** según lo anotado en clase por otro grupo (Porter y PESTEL no entran). Queda como referencia.
+
 ### V.1 Para qué sirve
 
 > 📌 *"El Modelo de Fuerzas de Porter nos permite analizar la **intensidad competitiva** de una industria. Es fundamental analizar la **estructura** de una cierta industria en donde se desea ser parte, entendiendo el **balance de fuerzas**."*
@@ -432,6 +434,8 @@ Para puntuar cada fuerza, las diapositivas siguientes dan una **escala de 1 a 9*
 ---
 
 ## VI. Análisis PESTEL
+
+> 🚫 **No sale** según lo anotado en clase por otro grupo (Porter y PESTEL no entran). Queda como referencia.
 
 ### VI.1 Las 6 preguntas
 

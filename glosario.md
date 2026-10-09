@@ -4,6 +4,7 @@
 
 | Término | Definición breve | Módulo |
 |---|---|---|
+| **11 elementos para crear valor** | Rueda de Osterwalder: novedad, rendimiento, personalización, hacer el trabajo, diseño, marca/estatus, precio, reducción de costos y de riesgos, accesibilidad, comodidad/usabilidad. | [20](resto-de-la-materia/20-propuesta-de-valor-clientes-y-competencia.md) |
 | **4 P (marketing mix)** | Producto, Precio, Plaza y Promoción: las variables controlables del marketing (McCarthy, 1960). | [26](resto-de-la-materia/26-marketing-en-accion.md) |
 | **5 V de Big Data** | Volumen, Velocidad, Variedad, Veracidad y Valor (la más importante). | [10](parcial-1/10-big-data.md) |
 | **7 P** | Las 4 P + Personas, Procesos y Evidencia física, para servicios (Booms & Bitner, 1981). | [26](resto-de-la-materia/26-marketing-en-accion.md) |
@@ -55,6 +56,7 @@
 | **Destrucción creativa** | Proceso de transformación que acompaña a la innovación (Schumpeter). | [06](parcial-1/06-schumpeter-destruccion-creativa-y-ciclos.md) |
 | **Development Team** | Equipo Scrum auto-organizado y multifuncional que construye los entregables. | [23](resto-de-la-materia/23-metodologias-agiles-y-scrum.md) |
 | **Diversificación concéntrica / por conglomerado** | Agregar productos nuevos relacionados (semejanza) / no relacionados (utilidades). | [21](resto-de-la-materia/21-estrategias-oceano-azul-y-canvas.md) |
+| **Doble Diamante** | Descubrir (divergir) → definir (converger) el problema; desarrollar (divergir) → entregar (converger) la solución. | [14](resto-de-la-materia/14-innovacion-abierta.md) |
 | **Doblin (10 tipos)** | Configuración (4), Oferta (2), Experiencia (4). | [07](parcial-1/07-gestion-de-la-innovacion.md) |
 | **DORA metrics** | Deployment frequency, lead time, change failure rate, MTTR. | [18](resto-de-la-materia/18-kpi.md) |
 | **DuPont** | ROE = margen × rotación de activos × apalancamiento financiero. | [25](resto-de-la-materia/25-matrices-para-la-toma-de-decisiones.md) |
@@ -104,7 +106,9 @@
 | **Matriz de Análisis Estratégico** | Qué, quién, cómo, cuándo, dónde y cuánto para bajar una estrategia a un plan. | [25](resto-de-la-materia/25-matrices-para-la-toma-de-decisiones.md) |
 | **Matriz de Ansoff** | Mercado × producto: penetración, desarrollo de producto, desarrollo de mercado, diversificación. | [21](resto-de-la-materia/21-estrategias-oceano-azul-y-canvas.md) |
 | **Matriz de las cuatro acciones** | Eliminar, reducir, incrementar, crear (Océano Azul). | [21](resto-de-la-materia/21-estrategias-oceano-azul-y-canvas.md) |
+| **Matriz ERAC** | Eliminar, Reducir, Aumentar, Crear: la matriz de las cuatro acciones del Océano Azul. | [28](resto-de-la-materia/28-metodologias-de-innovacion-comparativa.md) |
 | **Mercado meta** | Segmento que la empresa decide captar, satisfacer y/o servir con su programa de marketing para obtener utilidad. | [24](resto-de-la-materia/24-analisis-de-mercado-y-competencia.md) |
+| **Metodologías de innovación** | Procesos estructurados para transformar ideas en valor real (DT, Lean Startup, Ágiles, Innovación Abierta, Océano Azul). | [28](resto-de-la-materia/28-metodologias-de-innovacion-comparativa.md) |
 | **Miopía temporal** | Concentración excesiva en la innovación de corto plazo en detrimento de la de mayor beneficio futuro (caso Nokia). | [Parcial anterior resuelto](evaluacion/parcial-anterior-resuelto.md) |
 | **Misfit** | Desajuste entre la propuesta de valor y el perfil del cliente (ej.: NEXA Vision y el miedo a la privacidad). | [20](resto-de-la-materia/20-propuesta-de-valor-clientes-y-competencia.md) |
 | **MTTR** | Tiempo medio de recuperación ante falla. | [18](resto-de-la-materia/18-kpi.md) |
@@ -116,6 +120,7 @@
 | **OKR** | Objectives and Key Results: sistema que conecta metas aspiracionales con indicadores medibles. | [19](resto-de-la-materia/19-okr.md) |
 | **Paradoja de Nokia** | Las capacidades que produjeron el éxito (escala, eficiencia, especialización) dificultaron la adaptación. | [10 ejes de Nokia](evaluacion/nokia-10-ejes-resuelto.md) |
 | **Payback** | Tiempo que se tarda en recuperar la inversión inicial de un proyecto. | [25](resto-de-la-materia/25-matrices-para-la-toma-de-decisiones.md) |
+| **Pensamiento divergente / convergente** | Divergente: generar muchas opciones sin juzgar (inbound). Convergente: filtrar y elegir con viabilidad, ROI y encaje estratégico (outbound). | [14](resto-de-la-materia/14-innovacion-abierta.md) |
 | **PESTEL** | Factores Políticos, Económicos, Sociales, Tecnológicos, Ecológicos y Legales del macroentorno. | [24](resto-de-la-materia/24-analisis-de-mercado-y-competencia.md) |
 | **Pilares de Scrum** | Transparencia, inspección y adaptación (control empírico del proceso). | [23](resto-de-la-materia/23-metodologias-agiles-y-scrum.md) |
 | **Pivotar** | Cambiar aspectos clave del negocio cuando el mercado no valida. | [17](resto-de-la-materia/17-lean-startup-y-mvp.md) |

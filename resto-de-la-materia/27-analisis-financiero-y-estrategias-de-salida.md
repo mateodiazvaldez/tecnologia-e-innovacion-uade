@@ -26,7 +26,7 @@
   1. Qué describe
   2. La ecuación y sus variables
   3. Ejemplo
-- **IV. Etapas de una empresa y su financiamiento**
+- **IV. Etapas de una empresa y su financiamiento** 🔥
   1. Etapas de evolución y cadena de financiamiento
   2. Etapas de la inversión
 - **V. Estrategias de salida**
@@ -194,7 +194,9 @@ El gráfico de la cátedra (basado en Cortés y Echecopar, 2009, y Cardullo, 199
 
 > 🔗 Es la misma curva que el ciclo de vida del producto (tema [24](24-analisis-de-mercado-y-competencia.md#ii-ciclo-de-vida-del-producto)) y que la curva del Payback (tema [25](25-matrices-para-la-toma-de-decisiones.md#vi3-payback-y-ebitda)), vista desde el financiamiento.
 
-### IV.2 Etapas de la inversión
+### IV.2 Etapas de la inversión 🔥
+
+> 🔥 Según lo anotado en clase por otro grupo, **el profesor puso el foco en las etapas de la inversión**; el resto de la clase va como apoyo.
 
 | Etapa | Qué pasa (cátedra) |
 |---|---|
@@ -422,4 +424,4 @@ Se buscan empresas **comparables que coticen en bolsa** (misma industria, sector
 
 ---
 
-[← 26 Marketing en acción](26-marketing-en-accion.md) · [🏠 Índice](../README.md)
+[← 26 Marketing en acción](26-marketing-en-accion.md) · [🏠 Índice](../README.md) · [Siguiente → 28 Metodologías de innovación](28-metodologias-de-innovacion-comparativa.md)

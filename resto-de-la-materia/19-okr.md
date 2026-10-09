@@ -118,6 +118,21 @@ flowchart LR
 | **Puede existir sin un objetivo aspiracional** | **Siempre parte de un objetivo aspiracional** |
 | Ej: uptime mensual, NPS, churn rate | Ej: *"Ser el equipo más ágil de la empresa"* |
 
+### Tabla comparativa de la cátedra: KPI vs. OKR 🔥
+
+> 🔥 Según lo anotado en clase por otro grupo, **va a ser pregunta del final**. ⚠️ Esta tabla **no está en las diapositivas de tu carpeta**: se transcribió del repo de un compañero ([Valenpl](https://github.com/Valenpl/tecnologia-e-innovacion-uade), tema 22).
+
+| Característica | **KPI** (*Key Performance Indicator*) | **OKR** (*Objectives and Key Results*) |
+|---|---|---|
+| **Definición** | Indicador cuantitativo que mide la **eficiencia y salud de un proceso** en marcha. | **Metodología de gestión ágil** para alinear equipos hacia **metas ambiciosas**. |
+| **¿Qué responde?** | *¿Cómo lo estamos haciendo hoy? ¿A qué ritmo avanzamos?* | *¿Hacia dónde queremos ir (O) y cómo mediremos el éxito (KR)?* |
+| **Enfoque principal** | **El Viaje (Monitoreo).** Controlar las variables críticas del día a día. | **La Estrategia (Crecimiento).** Impulsar la innovación y resolver problemas en equipo. |
+| **Frecuencia de revisión** | **Alta** (diaria o semanal). | **Media** (trimestral, con *check-ins* semanales). |
+| **Nivel de éxito exigido** | **100 % de cumplimiento.** Es el estándar mínimo operativo aceptable. | **60 % – 70 % de cumplimiento.** Al ser metas muy agresivas (*stretch goals*), el 100 % es raro. |
+| **Flexibilidad** | **Baja.** La métrica es fija (ej.: "tasa de conversión") para poder comparar el histórico. | **Alta.** Se redefinen, cambian o eliminan por completo cada 90 días según el mercado. |
+
+> ⚠️ **La fila que más se confunde:** un KPI al **100 %** es lo **mínimo** (si el uptime pactado no se cumple, hay un problema). Un OKR al **100 %** suele indicar que la meta **no era lo bastante ambiciosa**; lo esperable es **60–70 %**.
+
 > 📌 *"**Los KPI te dicen cómo estás. Los OKR te dicen adónde querés ir.** Un KR bien definido dentro de un OKR es **un KPI con contexto estratégico**."*
 
 > 💡 **Analogía:** los KPI son el **tablero del auto** (velocidad, temperatura, combustible: siempre encendido). El OKR es **el destino del viaje** de este trimestre y los hitos que te dicen si estás llegando.
@@ -344,6 +359,7 @@ La cátedra deja tres preguntas *"que deberían generar incomodidad productiva"*
 | KPI | OKR | **Estado** continuo de un proceso vs. **dirección** temporal (90 días) y aspiracional. |
 | Cumplir 100 % de los KR | Éxito | En OKR, **60–70 %** es lo recomendado; 100 % siempre = metas poco ambiciosas. |
 | Cascada | Copiar el OKR de la empresa | Cada equipo define **su contribución real**, no replica el texto. |
+| Cumplir un KPI al 100 % | Cumplir un OKR al 100 % | KPI: el 100 % es el **mínimo** operativo. OKR: lo esperable es **60–70 %** (*stretch goals*); el 100 % es raro. |
 
 ---
 
@@ -397,6 +413,12 @@ Los OKR se definen primero a nivel **empresa** y se **cascadean** a equipos (pro
 <details><summary>Ver respuesta</summary>
 
 Freelancer: claridad sobre qué se paga y cuándo, evidencia objetiva de valor, protección ante *scope creep*, portfolio con resultados medibles. Cliente: alineación desde el inicio sobre qué es éxito, menor riesgo de pagar por baja calidad, visibilidad del progreso sin micromanagement, base objetiva para continuar o pivotar.
+</details>
+
+**8. Según la tabla comparativa de la cátedra, compare KPI y OKR en enfoque, frecuencia de revisión, nivel de éxito exigido y flexibilidad.** 🔥
+<details><summary>Ver respuesta</summary>
+
+**Enfoque:** KPI = el viaje (monitoreo de las variables críticas del día a día); OKR = la estrategia (crecimiento, innovación, resolver problemas en equipo). **Frecuencia:** KPI alta (diaria o semanal); OKR media (trimestral con check-ins semanales). **Éxito exigido:** KPI 100 % (estándar mínimo operativo); OKR 60–70 % (metas agresivas, el 100 % es raro). **Flexibilidad:** KPI baja (métrica fija para comparar el histórico); OKR alta (se redefinen cada 90 días según el mercado).
 </details>
 
 ---

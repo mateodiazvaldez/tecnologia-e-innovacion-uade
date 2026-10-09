@@ -2,6 +2,26 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.09.2 — 2026-10-09
+
+**Motivo:** se revisó el repo de un compañero ([Valenpl/tecnologia-e-innovacion-uade](https://github.com/Valenpl/tecnologia-e-innovacion-uade)), que arrancó como copia de este (2026-10-06) y después se recortó. Se incorporó lo que no teníamos, sin sacar nada de lo nuestro.
+
+### Agregado
+- **Tema 28 · Metodologías de innovación: en qué se diferencian** (repaso *MRI viernes – Metodologías de Innovación*): tabla comparativa de la cátedra, concepto/pilares/proceso de las cinco metodologías, cómo se combinan, Drucker.
+- **Tema 14 · Innovación abierta:** sección *X. Pensamiento divergente y convergente* (repaso *MRI viernes*): ciclo de oscilación cognitiva, Doble Diamante, matriz comparativa.
+- **Tema 19 · OKR:** 🔥 *Tabla comparativa de la cátedra: KPI vs. OKR* (definición, qué responde, enfoque, frecuencia, nivel de éxito exigido, flexibilidad); según lo anotado en clase, va a ser pregunta del final.
+- **Tema 20 · Propuesta de valor:** *IV.4 Los 11 elementos para crear valor (Osterwalder)* (diapositiva 14 de la Clase 4, que es solo imagen y se nos había pasado; verificada en el PDF).
+- **Tema 22 · Service Design:** cita de la cátedra sobre los "servicios percibidos" de un objeto (verificada en el deck).
+- **Glosario:** +5 términos.
+
+### Cambiado
+- **Alcance anotado en clase (otro grupo):** de *Matrices* solo salen los **8 pasos** y **Ansoff**; Porter, PESTEL y el resto **no salen**. Se marcó con 🚫 en los temas 24 y 25 **sin borrar contenido**.
+- **Tema 27:** 🔥 etapas de la inversión (el profesor puso el foco ahí); pie → tema 28.
+- README (tema 28, avisos de alcance y de material de un compañero) y "Cómo estudiar" (diagrama hasta el 28).
+
+### Pendiente
+- Los dos repasos del *MRI viernes* y la tabla KPI vs. OKR **no están en `material-de-clase/`**: el contenido es transcripción del repo del compañero. Si se consiguen los PPT, cotejar.
+
 ## v2026.10.09 — 2026-10-09
 
 **Motivo:** se actualizó la carpeta `material-de-clase/` con el material nuevo de la cátedra. De 16 archivos, **5 decks son nuevos**; los demás tienen el mismo contenido que ya estaba (algunos solo cambiaron de nombre o de carpeta).

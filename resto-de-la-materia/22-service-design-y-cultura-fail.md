@@ -135,6 +135,10 @@ La cátedra compara los principios del libro *This is Service Design Thinking* (
 | **4. Evidencial:** los servicios intangibles deben visualizarse en términos de artefactos físicos. | → | **5. Real:** las necesidades deben investigarse en la realidad, las ideas prototiparse en la realidad y los valores intangibles evidenciarse como realidad física o digital. |
 | **5. Holístico:** todo el entorno de un servicio debe ser considerado. | → | **6. Holístico:** abordar de manera sostenible las necesidades de todas las partes interesadas a través de todo el servicio y en toda la empresa. |
 
+> 📌 *"…cuando las personas intentan describir un objeto, lo hacen a través de los **servicios percibidos que proporciona**. Es casi imposible definir objetivamente cualquier objeto sin aprovechar los posibles potenciales de acción que percibimos que nos ofrece."*
+>
+> 💡 **Qué quiere decir:** nadie describe un auto por sus piezas, sino por lo que le permite hacer (llevarme al trabajo, viajar con la familia). Por eso el diseño tiene que pensarse desde el **servicio** que se percibe, no desde el objeto.
+
 > 💡 **Qué cambió:** de pensar solo en el **usuario** se pasó a pensar en **todas las personas** (incluidos los empleados); se agregó la **iteración**; y "evidencial" se convirtió en "**real**": no alcanza con mostrar el servicio, hay que investigarlo y probarlo en la realidad.
 
 ---

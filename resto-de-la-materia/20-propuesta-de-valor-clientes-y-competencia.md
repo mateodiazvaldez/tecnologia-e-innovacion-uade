@@ -16,6 +16,7 @@
 5. Armar un **canvas de propuesta de valor** (perfil del cliente + mapa de valor) y detectar **fit** o **misfit**.
 6. **Perfilar** al cliente ideal (buyer persona) y **validarlo**.
 7. Distinguir los **cuatro tipos de competidores** y construir una **matriz de competitividad**.
+8. Nombrar los **11 elementos para crear valor** de Osterwalder.
 
 ---
 
@@ -36,6 +37,7 @@
   1. Pirámide de Maslow
   2. Pirámide de preferencias y de los 30 elementos de valor
   3. Atributos
+  4. Los 11 elementos para crear valor (Osterwalder)
 - **V. Canvas de propuesta de valor**
   1. Perfil del cliente y mapa de valor
   2. Fit y misfit (caso NEXA Vision)
@@ -175,6 +177,28 @@ La cátedra usa la **pirámide de los 30 elementos de valor** (Almquist, Senior 
 ### IV.3 Atributos
 
 Los atributos de la propuesta: **solucionan los problemas** de los clientes; **satisfacen sus necesidades**; **materializan la estrategia para el segmento objetivo**; combinan **precio, producto, servicio e imagen de marca**; y **comunican de manera diferenciada** el "valor" frente a la oferta de la competencia.
+
+### IV.4 Los 11 elementos para crear valor (Osterwalder)
+
+La diapositiva 14 de la clase (solo imagen) muestra una rueda con **"11 elementos para crear valor"**, adaptación de **Alexander Osterwalder** (creador del Business Model Canvas):
+
+| Elemento | Cómo crea valor (cátedra) | 🧩 Ejemplo (➕) |
+|---|---|---|
+| **Novedad** | Cubrir una necesidad que antes no existía por falta de oferta. | El primer smartphone con tienda de apps. |
+| **Rendimiento** | Aumentar el desempeño de un producto. | Una notebook con el doble de batería. |
+| **Personalización** | Crear valor para segmentos específicos de clientes. | Zapatillas diseñadas a medida online. |
+| **Hacer el trabajo** | Ayudar al cliente a realizar una tarea específica (ej.: contabilidad). | Un software que liquida sueldos solo. |
+| **Diseño** | Crear valor a través de la superioridad estética del producto. | Muebles de diseño. |
+| **Marca y estatus** | Valor basado en el reconocimiento y la posición social de la marca. | Un reloj de lujo. |
+| **Precio** | Ofrecer un valor similar por un precio menor. | Aerolíneas low cost. |
+| **Reducción de costos** | Reducir costos para el cliente final. | Un software que baja el consumo de energía de una fábrica. |
+| **Reducción de riesgos** | Hacer más segura la adquisición de valor. | Garantía extendida, prueba gratis de 30 días. |
+| **Accesibilidad** | Dar acceso a un producto a clientes que no podían comprarlo. | Alquilar autos por hora en lugar de comprarlos. |
+| **Comodidad y usabilidad** | Facilitar el uso de un producto. | Pagar con el celular en lugar de con efectivo. |
+
+> 💡 **Diferencia con la pirámide de los 30 elementos:** la pirámide de Bain ordena los elementos por **niveles de necesidad** (funcional → impacto social); la rueda de Osterwalder es una **lista de palancas** para construir la propuesta de valor, sin jerarquía. Varias coinciden (reducir costos, reducir riesgos, diseño).
+
+> 🔗 Estos elementos son los que se escriben en el bloque **"Propuesta de valor"** del Business Model Canvas (tema [21](21-estrategias-oceano-azul-y-canvas.md#vii-business-model-canvas)).
 
 ---
 
@@ -339,6 +363,7 @@ Ejemplo de la cátedra:
 | Competencia indirecta | Sustituta | Indirecta = mismo problema, otra forma. Sustituta = otra cosa que reemplaza la necesidad. |
 | B2C | B2B | B2C: consumidor final, decisión rápida. B2B: empresas, compras al por mayor, proceso lento, relaciones largas. |
 | Canvas de propuesta de valor | Business Model Canvas | El primero hace zoom en **cliente + propuesta**; el segundo muestra **todo el negocio** en 9 bloques (tema [21](21-estrategias-oceano-azul-y-canvas.md)). |
+| 30 elementos de valor (Bain) | 11 elementos para crear valor (Osterwalder) | Bain: **pirámide** por niveles de necesidad. Osterwalder: **rueda** de palancas para diseñar la propuesta (novedad, rendimiento, personalización, precio…). |
 
 ---
 
@@ -394,6 +419,12 @@ Para **comprender qué necesidad satisface** la propuesta de valor (fisiológica
 <details><summary>Ver respuesta</summary>
 
 Suponer que "todos" son clientes (falta de segmentación); no hablar con clientes reales antes de desarrollar; enfocarse en características del producto en lugar de beneficios reales.
+</details>
+
+**8. Nombre los 11 elementos para crear valor de Osterwalder.**
+<details><summary>Ver respuesta</summary>
+
+Novedad, rendimiento, personalización, hacer el trabajo, diseño, marca y estatus, precio, reducción de costos, reducción de riesgos, accesibilidad, comodidad y usabilidad.
 </details>
 
 ---
