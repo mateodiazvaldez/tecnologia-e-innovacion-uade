@@ -2,6 +2,27 @@
 
 Historial de cambios del material. Cada versión tiene un **tag de git con la fecha** (`vAAAA.MM.DD`; si hay más de una en el mismo día: `vAAAA.MM.DD.2`, `.3`…).
 
+## v2026.10.09 — 2026-10-09
+
+**Motivo:** se actualizó la carpeta `material-de-clase/` con el material nuevo de la cátedra. De 16 archivos, **5 decks son nuevos**; los demás tienen el mismo contenido que ya estaba (algunos solo cambiaron de nombre o de carpeta).
+
+### Archivos de la cátedra
+- **Nuevos (Barrios):** *Metodologías Ágiles* (jueves MRI) · *Tamaño de mercado (TAM, SAM, SOM)* / "Análisis de Mercado y Competencia" · *Matrices para la toma de decisiones* (jueves) · *Marketing* (día jueves MRI) · *Análisis Financiero y Estrategias de Salida* (MRI).
+- **Reorganizados por la cátedra:** subcarpeta `2do Parcial/` con *KPI_OKR* y *Proy Innovación Tec – Lean Startup y KPI*; copia de este último en la raíz como *Lean Startup y KPI*; *día 3 Innovación Abierta* pasa a llamarse *día 5 Innovación Abierta*. Subcarpeta `1er Parcial/` vacía.
+- `material-de-clase-md/` actualizada como espejo de `material-de-clase/` (misma estructura de carpetas; se movieron/renombraron los md existentes y se convirtieron los 5 decks nuevos). PDFs de los 5 decks nuevos en `material-de-clase-pdf/` (muchas diapositivas son solo imagen y se leyeron desde el PDF).
+
+### Agregado
+- **Temas nuevos (resto de la materia):** [23 Metodologías ágiles y Scrum](resto-de-la-materia/23-metodologias-agiles-y-scrum.md) · [24 Análisis de mercado y competencia](resto-de-la-materia/24-analisis-de-mercado-y-competencia.md) (con los dos ejercicios de dimensionamiento resueltos) · [25 Matrices para la toma de decisiones](resto-de-la-materia/25-matrices-para-la-toma-de-decisiones.md) (con la lista de lo que **no entra en examen**) · [26 Marketing en acción](resto-de-la-materia/26-marketing-en-accion.md) (🔥 los 5 puntos de la sección de marketing de la defensa final) · [27 Análisis financiero y estrategias de salida](resto-de-la-materia/27-analisis-financiero-y-estrategias-de-salida.md).
+- **Glosario:** +42 términos.
+
+### Analizado con criterio (diapositivas que no cierran)
+- *Matrices:* el texto de "8 pasos" es la secuencia de **Kotter** (gestión del cambio) pero el gráfico es el de **planificación estratégica**; los números del ejemplo de Payback/EBITDA no surgen de la tabla anual; la diapositiva de punto de equilibrio mezcla equilibrio de mercado y punto de equilibrio de la empresa.
+- *Tamaño de mercado:* el ejemplo Bottom-Up de comprimidos da $500.000, no 500 millones; en PESTLE las letras de Legal y Ambiental están invertidas.
+- *Análisis financiero:* en el ejemplo de CAPM el Rf vale 3,3 afuera y 3 dentro del paréntesis.
+
+### Cambiado
+- README (temas 23–27, nota de la carpeta "2do Parcial"), "Cómo estudiar" (diagrama del orden hasta el tema 27) y pie del tema 22 (→ 23).
+
 ## v2026.10.06 — 2026-10-06
 
 **Motivo:** se volvió a descargar el material de la cátedra (dos zips de OneDrive). De 13 archivos, **4 son nuevos**; el resto es idéntico (mismo hash) a lo que ya estaba.

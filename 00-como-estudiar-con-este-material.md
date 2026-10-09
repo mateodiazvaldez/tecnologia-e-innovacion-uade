@@ -127,8 +127,10 @@ flowchart TB
         end
         C1 --> C2 --> C3 --> D3
     end
-    subgraph POST["⏳ RESTO DE LA MATERIA · temas 14–19"]
+    subgraph POST["⏳ RESTO DE LA MATERIA · temas 14–27"]
         T14["14 Innovación<br/>abierta"] --> T15["15 VICA / VANI"] --> T16["16 Proyectos y<br/>estrategia"] --> T17["17 Lean Startup<br/>y MVP"] --> T18["18 KPI"] --> T19["19 OKR"]
+        T19 --> T20["20 Propuesta<br/>de valor"] --> T21["21 Estrategias<br/>y Canvas"] --> T22["22 Service<br/>Design"]
+        T22 --> T23["23 Ágiles<br/>y Scrum"] --> T24["24 Mercado<br/>y competencia"] --> T25["25 Matrices de<br/>decisión"] --> T26["26 Marketing"] --> T27["27 Finanzas<br/>y salida"]
     end
     P1 --> POST
 ```

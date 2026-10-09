@@ -294,4 +294,4 @@ El Journey Map mapea la experiencia del **cliente** (antes, durante, después; a
 
 ---
 
-[← 21 Estrategias, Océano Azul y Canvas](21-estrategias-oceano-azul-y-canvas.md) · [🏠 Índice](../README.md)
+[← 21 Estrategias, Océano Azul y Canvas](21-estrategias-oceano-azul-y-canvas.md) · [🏠 Índice](../README.md) · [Siguiente → 23 Metodologías ágiles y Scrum](23-metodologias-agiles-y-scrum.md)
